@@ -46,4 +46,4 @@ make re     # full recompile
 - [The Dining Philosophers Problem (Wikipedia)](https://en.wikipedia.org/wiki/Dining_philosophers_problem)
 - `man pthread_create`, `man pthread_mutex_lock`, `man gettimeofday`
 - [42 Philosophers guide by nafMusic](https://github.com/nafMusic/philosophers-42)
-- AI (Claude) was used to generate this README file. No AI was used to write the project code.
+- AI (Claude) was used as a development aid throughout this project: understanding the subject requirements, debugging concurrency issues, reviewing thread safety, and generating this README. All code was reviewed, tested, and validated manually.
